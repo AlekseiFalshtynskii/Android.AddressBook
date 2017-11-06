@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Адресная книга</string>
+    <string name="menuitem_edit">Редактировать</string>
+    <string name="menuitem_delete">Удалить</string>
+    <string name="hint_name_required">Наименования (обязательно)</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_street">Улица</string>
+    <string name="hint_city">Город</string>
+    <string name="hint_state">Район</string>
+    <string name="hint_zip">Почтовый индекс</string>
+    <string name="label_name">Наименование:</string>
+    <string name="label_email">E-Mail:</string>
+    <string name="label_phone">Телефон:</string>
+    <string name="label_street">Улица:</string>
+    <string name="label_city">Город:</string>
+    <string name="label_state">Район:</string>
+    <string name="label_zip">Почтовый индекс:</string>
+    <string name="confirm_title">Вы уверены?</string>
+    <string name="confirm_message">Это навсегда удалит контакт</string>
+    <string name="button_cancel">Отменить</string>
+    <string name="button_delete">Удалить</string>
+    <string name="contact_added">Контакт успешно добавлен</string>
+    <string name="contact_not_added">Контакт не добавлен из-за ошибки</string>
+    <string name="contact_updated">Контакт обновлен</string>
+    <string name="contact_not_updated">Контакт не обновлен из-за ошибки</string>
+    <string name="invalid_query_uri">Невалидный запрос Uri: </string>
+    <string name="invalid_insert_uri">Невалидная вставка Uri: </string>
+    <string name="invalid_update_uri">Невалидное обновление Uri: </string>
+    <string name="invalid_delete_uri">Невалидное удаление Uri: </string>
+    <string name="insert_failed">Ошибка вставки:</string>
+</resources>
